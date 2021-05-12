@@ -1,1 +1,1 @@
-web: gunicorn arkeotuim.wsgi --log-file -
+web: gunicorn arkeotuim.wsgi
