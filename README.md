@@ -1,2 +1,2 @@
-# archeo-app-autotests
+# Archeo-app-autotests
 Automated web app testing
